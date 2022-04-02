@@ -4,16 +4,17 @@
 
 Result:Every game will end in a tie unless one of the players commits a blunder. The board game Connect Four has been solved: regardless of what the other player does, the first player will always win if they make the proper moves.
 
-#3W's and 1'H
+# 3W's and 1'H
 
-#WHO
+# WHO
 Two players playing.
 
-#WHAT
+# WHAT
 Xs and Os placing.
-#Where
+  
+# Where
 At paper,mobile,computer.
 
 
-#How
+# How
 3 rows*3 columns Xs and Os placing.
